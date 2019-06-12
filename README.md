@@ -1,0 +1,3 @@
+# margeso
+
+Maze generator/solver
